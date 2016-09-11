@@ -1,9 +1,7 @@
-TODO
+js1k-2016
 =========
 
->My attempts and tools for JS1K 2016. — [Try it online!](https://rawgit.com/ThibWeb/js1k-2016/master/src/todo.html)
-
-TODO screenshot
+>My attempts and tools for JS1K 2016. — [Try it online!](https://rawgit.com/thibaudcolas/js1k-2016/master/src/todo.html)
 
 ## Theme
 

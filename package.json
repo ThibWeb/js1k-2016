@@ -1,7 +1,7 @@
 {
   "name": "js1k-2016",
   "version": "1.0.0",
-  "homepage": "https://github.com/ThibWeb/js1k-2016",
+  "homepage": "https://github.com/thibaudcolas/js1k-2016",
   "description": "My attempts and tools for JS1K 2016.",
   "private": true,
   "engines": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ThibWeb/js1k-2016"
+    "url": "git://github.com/thibaudcolas/js1k-2016"
   },
   "devDependencies": {
     "browser-sync": "^2.0.0-rc3",
